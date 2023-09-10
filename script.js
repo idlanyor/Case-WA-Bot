@@ -4,7 +4,7 @@ const {
     Presence,
     Mimetype,
     GroupSettingChange
-} = require('@whiskeysockets/baileys')
+} = require('adi')
 
 const fs = require("fs")
 const FormData = require('form-data')
